@@ -1,50 +1,118 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <!-- Homepage -->
-    <url>
-        <loc>https://clairvoyancemedium.github.io/CN-fast-and-reliable-email-psychic-reading.github.io/</loc>
-        <lastmod>2025-01-21</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url>
+<!-- sitemap.xml za https://clairvoyancemedium.github.io/Kako-uspesno-in-hitro-pridobiti-nazaj-ljubezen-svojega-zivljenja.github.io/ -->
+<!-- Ustvarjeno: 20. februar 2025 -->
+<!-- Optimizirano za leto 2025 za maksimalno vidnost v iskalnikih, AI, glasovnih pomočnikih in Google News -->
+<urlset 
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+    xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+    xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
-    <!-- Pricing Page -->
-    <url>
-        <loc>https://clairvoyancemedium.github.io/CN-fast-and-reliable-email-psychic-reading.github.io/pricing</loc>
-        <lastmod>2025-01-21</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
+  <!-- Glavna stran (Prioritetna stran za vse iskalnike in glasovne pomočnike) -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/Kako-uspesno-in-hitro-pridobiti-nazaj-ljubezen-svojega-zivljenja.github.io/</loc>
+    <lastmod>2025-02-20T08:00:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <!-- Podpora za več jezikov -->
+    <xhtml:link rel="alternate" hreflang="sl" href="https://clairvoyancemedium.github.io/Kako-uspesno-in-hitro-pridobiti-nazaj-ljubezen-svojega-zivljenja.github.io/?lang=sl" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://clairvoyancemedium.github.io/Kako-uspesno-in-hitro-pridobiti-nazaj-ljubezen-svojega-zivljenja.github.io/?lang=en" />
+    <!-- Slike za Google Images -->
+    <image:image>
+      <image:loc>https://clairvoyancemedium.github.io/Kako-uspesno-in-hitro-pridobiti-nazaj-ljubezen-svojega-zivljenja.github.io/Images/homepage-banner.webp</image:loc>
+      <image:caption>Povrnitev ljubezni z močjo obredov - Glavna stran</image:caption>
+      <image:title>Banner za ljubezenske obrede</image:title>
+      <image:license>https://clairvoyancemedium.github.io/licenca/</image:license>
+    </image:image>
+    <!-- Videoposnetek za Google Videos -->
+    <video:video>
+      <video:content_loc>https://clairvoyancemedium.github.io/Videos/intro-ljubezenski-obredi.mp4</video:content_loc>
+      <video:title>Uvod v ljubezenske obrede</video:title>
+      <video:description>Film prikazuje, kako Frederick izvaja močne čustvene obrede za povrnitev ljubezni.</video:description>
+      <video:thumbnail_loc>https://clairvoyancemedium.github.io/Videos/thumbs/intro-ljubezenski-obredi.jpg</video:thumbnail_loc>
+      <video:duration>120</video:duration>
+      <video:publication_date>2025-02-20T08:00:00+01:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
 
-    <!-- FAQ Page -->
-    <url>
-        <loc>https://clairvoyancemedium.github.io/CN-fast-and-reliable-email-psychic-reading.github.io/faq</loc>
-        <lastmod>2025-01-21</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
-    </url>
+  <!-- Novice za Google News -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/Kako-uspesno-in-hitro-pridobiti-nazaj-ljubezen-svojega-zivljenja.github.io/novice/novi-rituali-2025/</loc>
+    <lastmod>2025-02-20T10:00:00+01:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>ClairVoyanceMedium</news:name>
+        <news:language>sl</news:language>
+      </news:publication>
+      <news:publication_date>2025-02-20T10:00:00+01:00</news:publication_date>
+      <news:title>Novi rituali za ljubezen v letu 2025</news:title>
+      <news:keywords>ljubezenski obredi, rdeča magija, vedeževanje, 2025</news:keywords>
+    </news:news>
+    <image:image>
+      <image:loc>https://clairvoyancemedium.github.io/Images/novice-rituali-2025.webp</image:loc>
+      <image:caption>Najnovejši rituali za povrnitev ljubezni</image:caption>
+    </image:image>
+  </url>
 
-    <!-- Blog Section -->
-    <url>
-        <loc>https://clairvoyancemedium.github.io/CN-fast-and-reliable-email-psychic-reading.github.io/blog</loc>
-        <lastmod>2025-01-21</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
-    </url>
+  <!-- Stran za Speakable (optimizirana za glasovne pomočnike) -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/Kako-uspesno-in-hitro-pridobiti-nazaj-ljubezen-svojega-zivljenja.github.io/speakable/</loc>
+    <lastmod>2025-02-20T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://clairvoyancemedium.github.io/Images/speakable-ljubezen.webp</image:loc>
+      <image:caption>Govorne vsebine o ljubezenskih obredih</image:caption>
+    </image:image>
+  </url>
 
-    <!-- Individual Blog Post Example -->
-    <url>
-        <loc>https://clairvoyancemedium.github.io/CN-fast-and-reliable-email-psychic-reading.github.io/blog/article1</loc>
-        <lastmod>2025-01-15</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
+  <!-- Stran "O nas" (institucionalna stran) -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/Kako-uspesno-in-hitro-pridobiti-nazaj-ljubezen-svojega-zivljenja.github.io/o-nas/</loc>
+    <lastmod>2025-02-20T07:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://clairvoyancemedium.github.io/Images/frederick-portret.webp</image:loc>
+      <image:caption>Frederick - Strokovnjak za ljubezenske obrede</image:caption>
+    </image:image>
+  </url>
 
-    <!-- Contact Page -->
-    <url>
-        <loc>https://clairvoyancemedium.github.io/CN-fast-and-reliable-email-psychic-reading.github.io/contact</loc>
-        <lastmod>2025-01-21</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
+  <!-- Primer dinamične strani (kategorija ljubezenskih obredov) -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/Kako-uspesno-in-hitro-pridobiti-nazaj-ljubezen-svojega-zivljenja.github.io/kategorija/ljubezenski-obredi/</loc>
+    <lastmod>2025-02-20T08:30:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://clairvoyancemedium.github.io/Images/ljubezenski-obredi.webp</image:loc>
+      <image:caption>Močni ljubezenski obredi za povratek bivšega</image:caption>
+    </image:image>
+    <video:video>
+      <video:content_loc>https://clairvoyancemedium.github.io/Videos/ljubezenski-obredi-guide.mp4</video:content_loc>
+      <video:title>Vodič za ljubezenske obrede</video:title>
+      <video:description>Vodič po korakih za izvajanje ljubezenskih obredov z Frederickom.</video:description>
+      <video:thumbnail_loc>https://clairvoyancemedium.github.io/Videos/thumbs/ljubezenski-obredi-guide.jpg</video:thumbnail_loc>
+      <video:duration>180</video:duration>
+      <video:publication_date>2025-02-20T08:30:00+01:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+
+  <!-- Primer izdelka (npr. obred rdeče magije) -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/Kako-uspesno-in-hitro-pridobiti-nazaj-ljubezen-svojega-zivljenja.github.io/izdelek/rdeca-magija/</loc>
+    <lastmod>2025-02-20T09:30:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://clairvoyancemedium.github.io/Images/rdeca-magija.webp</image:loc>
+      <image:caption>Obred rdeče magije za povrnitev ljubezni</image:caption>
+    </image:image>
+  </url>
+
 </urlset>
